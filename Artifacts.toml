@@ -1,0 +1,288 @@
+[[psurface]]
+arch = "aarch64"
+git-tree-sha1 = "d300611b0fe205b826b3c26d07f15d4b91dcc6cb"
+os = "macos"
+
+    [[psurface.download]]
+    sha256 = "90b7c61e9409bfe88752fa112299caacccb16b61b0d78b55e135726e5d119baf"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[psurface]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4764bc20324847df6cc6391e7a784d8bd034326c"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "5236086766236063b8b166757bbec2b819f4f360500ec8e4b8f296938d2a34cd"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[psurface]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b4b09123fe6257a5ecbb0abdb0d48318915f6e94"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "98330ccf60878087a15769fcc5125b3b7d87ba62c30f26ec498d15a4f3f73fe1"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[psurface]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4e904819d685e48be13a4813e439e7d4834d945"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "6e0a2be7e3cdcfbaa79aed9ac911d9e98f0619390f41e96cd2eef1e2615f096e"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[psurface]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78039063f4b9688c9a1b6ca2426ad17749288d72"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "f378628fb4f9694427c996b83bd72e81b628143dc1507dcb9f7da8633488883a"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[psurface]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50eddded9e38217d1474c2db83cf931a39350d3e"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "4266822717f5fe73263066fcd2ed593c4008cc964f379d81ccdc63f4768601f2"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[psurface]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e252b526133ff13d69fa4590ae322b1d2406a0ce"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "229352c3c97b30e0e1c28be1787c0eaee1fd3345593cff82d8dcca3ffd2fce88"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[psurface]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "efc3b7ce0621c09ebfb39fb2a2a05d8478fd297d"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "646575a842060fb9d74a7232c518fcc07856ddb7af8f95b6fc292aebb28ac405"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[psurface]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef1f6643ef99dd12dac1aadd7edf9a8ea006890f"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "daa450881b17a16f3ac95626a3d1964b904b9d7bec125b5a2b9bba6f91f2b94d"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[psurface]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c209de77c21c53618f162ed74f2ad90763dca4ac"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "b543853c2ff00bbd43602677588603cb1ff1f7058c60d4101341985458d3d6cb"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[psurface]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65968ad4c9fc97d66acf7f433a2a59ff8bc03b97"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "b93152c7ee04dae736d6b01d4da4f6f9949d60617c2b17d719a56e4e848c90d1"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[psurface]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10f19d54b5e3fb28069ba792698987fd9923bed8"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "5d94de7c79fd7ed2002061022077711fd841e08e85a5718773d8b98ad046a619"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[psurface]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5440446a9dba2aca74fc5ce2da3f85fe2db8280"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "130f4801744f76e14d885fae093dc2124d8285ef568c3a50daba3a7c7f070c41"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "526fa2d42d7d583eedb85b78bcb447b09fe8b659"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "672a9c506f73d088e824a6f9fb244e1e5deba18d04a3ed393588db57be2b49bf"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18b56b9771588fd79051bf525baf94d41a45d442"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "d4a0d0f9b8889b85fc32fb4cc940acafb4f38bcd4f7150ee24e87fd85617285e"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa96eabae74a733d26876a6e28727282fb33b2fb"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "47328a47848acc5f70c7df1540c3feaaf72cd87252bef0552213863c3006f266"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-linux-musl-cxx03.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ac1c2f69e9d54636ac294b5f61dc0553bc114ca"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "c2c1f231bb48d9909548069816be85b545645ea767ed276899f7ecf3333a1bb7"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "351f5970bc6070c2e59d54bd94f5236fcd2aca88"
+os = "windows"
+
+    [[psurface.download]]
+    sha256 = "943c4a1a8f512dc725e50852ff59b27ded93b0ee72f3b8b2eb757ec486eb8e9d"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[psurface]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a53538fd5d4fb722470a4a926870b3c513d860e"
+os = "windows"
+
+    [[psurface.download]]
+    sha256 = "cba4647e28baefd3b3748581091617f40c9afa1e3cda7b7603a4a745ffcccc8d"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[psurface]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b845e8de00d4e6721a70b282aead2d6381c38fcb"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "183b8f97ec270201fc68dd3f843783078c715d7c72038ec61ba711ba1916fdcb"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[psurface]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e3d2317a88830338ef0eb21e99894c7c049e75d"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "745bc5dbef5112520ceda7b9a75b3865123d965e117d772c96a555f8c49c5980"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[psurface]]
+arch = "x86_64"
+git-tree-sha1 = "4637c5c5cc280c647b2209196514b347c8639613"
+os = "macos"
+
+    [[psurface.download]]
+    sha256 = "c9d170b5f2d1769fd505b9f76941c6e958a9fa92832c61a4dc332081cfdeec97"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b46b8a7c66cb1912bb44e614c6e5a684c6c0457"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "bc9517334407a2f1867db4a64d4d01c2b673f601d79835a16ab036c5dc9172eb"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7421c02f50c43c23e8215cea638c6eda0ba0596"
+libc = "glibc"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "74dca18272effc85a2a930df7cec36e55ca0b518b8c3a79bf215fe61baec7bf8"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c17dc80da362fe73c763cf7e2ff22dc2d0c64e2"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "5c2c103743e8f45715b179e9f6abe25dda0b298dd45458387c9b14c58aead5ab"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef0f494dcc3dddd53ca7b9159ac99bd793f50107"
+libc = "musl"
+os = "linux"
+
+    [[psurface.download]]
+    sha256 = "dc916016939fbff830620c4905e24b02cd995bfeec2f61f10fd1c5cdb102275c"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[psurface]]
+arch = "x86_64"
+git-tree-sha1 = "77aca6ce76102abe8b8458d4081333c3368a0e6a"
+os = "freebsd"
+
+    [[psurface.download]]
+    sha256 = "e0d9e50dc3abc26d07859c6843627f39c51453a7a3007fb288df7da01be57ae3"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b6711cd5812b9be19560cf01ad452e2575ed045"
+os = "windows"
+
+    [[psurface.download]]
+    sha256 = "7ffb753b8e5bb4944d668b4748bb3c12e42304b6616df3abe134103b06347fea"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[psurface]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a2ba0bda3fb455157704a93288289ccf25d58ce"
+os = "windows"
+
+    [[psurface.download]]
+    sha256 = "f2839a803b8f22075ef70b13caa57a565cb12c2e86cabcf2c764f71cf3f0501a"
+    url = "https://github.com/JuliaBinaryWrappers/psurface_jll.jl/releases/download/psurface-v2.0.0+0/psurface.v2.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
